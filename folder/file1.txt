@@ -1,1 +1,2 @@
 Hey i am file 1
+and file 2 is deleted
